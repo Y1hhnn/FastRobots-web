@@ -25,7 +25,6 @@ socials = [
 ]
 menu = [
   { name = "/posts", url = "/posts", weight = 1 },
-  { name = "/about", url = "/about", weight = 2 },
 ]
 
 fancy_code = true

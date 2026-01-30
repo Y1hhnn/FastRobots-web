@@ -1,25 +1,15 @@
 +++
+title = "Yihan Zhao"
 template = "home.html"
 +++
 
-<style>
-.homepage-hero {
-    text-align: center;
-    padding: 2rem 0;
-}
+This site documents my journey through **Fast Robots (2026)** 🚀,  
+including builds, experiments, failures, and weekly reflections.
 
-.homepage-hero-title {
-    font-size: 3rem;
-    margin-bottom: 1rem;
-}
+# Hey! 👋
+{{ image(path="content/portrait.jpg", alt="serial screenshot", width=300, class="center" )}}
 
-.homepage-hero-subtitle {
-    font-size: 1.25rem;
-    margin-bottom: 1rem;
+I am a third year Computer Science student with a minor in Electrical and Computer Engineering. 
+I am passionate about creating new ways of thinking, feeling and empowerment through robots and artificial intelligence. 
+Outside of my academics, I am also an installation artist based in Shanghai.
 
-</style>
-
-<div class="homepage-hero">
-    <h1 class="homepage-hero-title">Yihan Zhao</h1>
-    <p class="homepage-hero-subtitle"> Here documents my journey through FastRobots, 2026.</p>
-</div>
