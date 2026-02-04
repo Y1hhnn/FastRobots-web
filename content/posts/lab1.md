@@ -15,8 +15,15 @@ Then, I verified the toolchain by compiling and uploading the example cases.
 ## Blink Example
 This tests the programming of the board and the LED control. A blue light is flashing on the board. 
 
-<div style="width:100%;height:0px;position:relative;padding-bottom:64.923%;"><iframe src="https://youtube.com/shorts/RfZdJ5EeOyk?feature=share" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
-
+<div style="width:100%;height:0;position:relative;padding-bottom:64.923%;">
+  <iframe
+    src="https://www.youtube.com/embed/RfZdJ5EeOyk"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+    style="width:100%;height:100%;position:absolute;left:0;top:0;overflow:hidden;">
+  </iframe>
+</div>
 
 ## Serial Example
 This tests USB serial communication. After printing the setup message, it echoes the input string to the serial monitor.
@@ -24,12 +31,30 @@ This tests USB serial communication. After printing the setup message, it echoes
 
 ## Analog Read Example
 This tests temperature sensing. After grasping the board, the sensor warms up, raising the temperature from approximately $\approx 33,100$ to approximately $\approx 33,500$. 
-<div style="width:100%;height:0px;position:relative;padding-bottom:64.923%;"><iframe src="https://youtube.com/shorts/b1mpKQEn4Ag?feature=share" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+
+<div style="width:100%;height:0;position:relative;padding-bottom:64.923%;">
+  <iframe
+    src="https://youtube.com/embed/b1mpKQEn4Ag"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+    style="width:100%;height:100%;position:absolute;left:0;top:0;overflow:hidden;">
+  </iframe>
+</div>
 
 ## PMD Microphone Example
 This test checks the microphone's functionality. When I speak into the microphone, the loudest frequency increases from $\approx 200$ to  $\approx 1,000$.
 
-<div style="width:100%;height:0px;position:relative;padding-bottom:64.923%;"><iframe src="https://youtube.com/shorts/L2zy1zvAQZk?feature=share" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+<div style="width:100%;height:0;position:relative;padding-bottom:64.923%;">
+  <iframe
+    src="https://youtube.com/embed/L2zy1zvAQZk"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+    style="width:100%;height:100%;position:absolute;left:0;top:0;overflow:hidden;">
+  </iframe>
+</div>
+
 
 # Lab 1B
 
